@@ -14,7 +14,7 @@ def calculadora ():
 
         if opcion == '1':
             print(f"Resultado: {num1} + {num2} = {num1 + num2}")  
-                 elif opcion == '2':
+            elif opcion == '2':
                 print(f"Resultado: {num1} - {num2} = {num1 - num2}") 
                 elif opcion == '3':
                     print(F"Resultado: {num1} * {num2} = {num1 * num2}")
